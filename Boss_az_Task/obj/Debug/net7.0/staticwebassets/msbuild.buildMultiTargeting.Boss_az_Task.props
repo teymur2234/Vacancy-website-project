@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Boss_az_Task.props" />
+</Project>
